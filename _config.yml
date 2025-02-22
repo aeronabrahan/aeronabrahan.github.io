@@ -1,6 +1,6 @@
 title: Jan Aeron
 logo: assets/images/profile_pic.png
 show_downloads: True
-remote_theme: pages-themes/modernist@v0.2.0
+remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
